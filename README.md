@@ -196,7 +196,7 @@ Les noms disponibles sont : `reentrancy`, `access-control`, `tx-origin`,
 - `audit/RAPPORT_AUDIT.md` : rapport d'audit final.
 - `audit/TRIAGE.md` : triage des résultats Slither.
 
-## Rappel de sécurité
+## Rappel de sécurité !!
 
 Les clés présentes dans les scripts sont les clés de test publiques d'Anvil.
 Elles ne doivent jamais être utilisées sur un réseau réel. Les scénarios
